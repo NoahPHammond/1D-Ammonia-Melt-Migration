@@ -4,7 +4,7 @@ Run matlab file below to reproduce Figures from the paper:
 "Compaction and Melt Transport in Ammonia-Rich Ice Shells: Implications for the Evolution of Triton".  
 
 This code may only be altered for personal use only with the permission of the author, Noah P. Hammond. 
-For questions email: (noah.hammond@utoronto.ca).
+For questions email: (nhammond@providence.edu).
 
 ####### MATLAB CODE BELOW:
 
